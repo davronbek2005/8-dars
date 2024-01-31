@@ -1,0 +1,147 @@
+.intro__container {
+display: flex;
+height: 280px;
+}
+.intro__list {
+    width: 350px;
+    font-family: Livvic;
+font-size: 64px;
+font-weight: 700;
+line-height: 100px;
+letter-spacing: 0px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+}
+.intro__text {
+    width: 730px;
+    font-family: Livvic;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: left;
+margin-top: 40px;
+
+}
+
+.about_intro {
+    background-image: url(../imgs/Group\ 8\ \(2\).svg);
+    background-repeat: no-repeat;
+    background-position:  bottom  right
+    
+}
+ul,ol {
+    list-style: none;
+  }
+  .about_section_1 {
+    background-image: url(../imgs/Group\ 8\ \(3\).svg),url(../imgs/Group\ 8.svg);
+    background-repeat: no-repeat;
+    background-position: top left,bottom right ;
+    background-color: rgba(0, 64, 71, 1);
+
+  }
+
+  .about_pages_main_text {
+    width: 920px;
+    font-family: Livvic;
+font-size: 48px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0px;
+text-align: center;
+margin-bottom: 64px;
+padding-top: 140px;
+
+  }
+  .about_pages__list {
+    display: flex;
+  }
+  .about_pages_main_list {
+    width: 350px;
+    height: 253px;
+    background-color: rgba(1, 47, 52, 1);
+    margin-right: 30px;
+    margin-bottom: 76px;
+    background-image: url(../imgs/Group\ 13\ \(1\).svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    
+  }
+  .about_page__main_img {
+    padding-top: 32px;
+    margin-left: 105px;
+    padding-bottom: 16px;
+  }
+  blockquote {
+    width: 302px;
+    font-family: Livvic;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: rgba(121, 200, 199, 1);
+    
+}
+.about_pages_main_p {
+    width: 302px;
+    font-family: Livvic;
+font-size: 15px;
+line-height: 25px;
+letter-spacing: 0px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+}
+.about_main_p {
+    width: 302px;
+    font-family: Livvic;
+font-size: 18px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: center;
+padding-top: 35px;
+padding-bottom: 8px;
+color: rgba(121, 200, 199, 1);
+
+}
+.about_main_li {
+    width: 254px;
+    font-family: Livvic;
+font-size: 15px;
+font-weight: 600;
+line-height: 25px;
+letter-spacing: 0px;
+text-align: center;
+padding-bottom: 24px;
+padding-left: 48px;
+}
+
+.about_section_2 {
+    background-color: rgba(1, 47, 52, 1);
+    background-image: url(../imgs/clients-bg.svg);
+    background-repeat: no-repeat;
+    
+}
+.about_text {
+width: 920px;
+font-family: Livvic;
+font-size: 48px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0px;
+text-align: center;
+margin-bottom: 70px;
+padding-top: 140px;
+
+}
+.about_listlar {
+    display: flex;
+}
+.about_list {
+    width: 165px;
+margin-right: 80px;
+margin-bottom: 151px;
+line-height: 28px;
+height: 28px;
+}

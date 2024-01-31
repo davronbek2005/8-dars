@@ -1,0 +1,22 @@
+.nav {
+  margin-right: auto;
+
+  &__list {
+    display: flex;
+    list-style-type: none;
+  }
+
+  &__item {
+    margin-right: 40px;
+  }
+
+  &__link {
+    text-decoration: none;
+    color: $white;
+    transition: all 0.3s ease;
+
+    &:hover {
+      color: $light-coral;
+    }
+  }
+}
